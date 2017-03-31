@@ -1,6 +1,6 @@
-# Budget
+# Budget CLI (Elixir)
 
-**TODO: Add description**
+A simple CLI tool for pretty printing a sorted account transactions list.
 
 ## Installation
 
